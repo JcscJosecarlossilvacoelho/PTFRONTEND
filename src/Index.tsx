@@ -5,7 +5,7 @@ export function Home() {
   return (
     <>
     <App></App>
-    <Section></Section>
+    {/* <Section></Section> */}
     </>
   )
 }
